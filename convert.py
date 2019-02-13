@@ -31,7 +31,7 @@ def main():
             for idx in indices:
                 variants[idx] += pronunciations
 
-    print(result)
+    print(variants)
 
 
 if __name__ == "__main__":
